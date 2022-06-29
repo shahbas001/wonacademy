@@ -1,0 +1,48 @@
+
+
+.footer{
+  padding-top: 100px;
+  
+}
+
+ .table{
+   text-align: center;
+ }
+  a{
+    color: inherit; 
+    color: white
+  }
+  .logo{
+    height: 100px;
+    /* display: flex */
+    
+}
+
+
+.style-remove{
+  list-style: none;
+}
+
+.bg-text{
+  position: absolute;
+  width: 91%;
+  /* top: 50%; */
+  left: 60%;
+  z-index: 2;
+transform: translate(-50%, -164%);
+}
+.page-header {
+
+  background-color: #b2afab;
+  background-position: center;
+  background-size: cover;
+  /* min-height: 100vh;
+  max-height: 999px; */
+  height: 500px;
+  overflow: hidden;
+ 
+  width: 100%;
+ filter: brightness(15%)
+
+  
+}

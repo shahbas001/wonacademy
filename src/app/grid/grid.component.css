@@ -1,0 +1,41 @@
+img{
+    object-fit: cover;
+    width: 100%;
+    max-height: 100%;
+}
+
+
+
+.page-header {
+    background-position: center center;
+    background-size: cover;
+    /* min-height: 100px;
+    max-height: 500px; */
+    height: 350px;;
+    overflow: hidden;
+    position: relative;
+    width: 300px;
+    z-index: 1;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    /* Center vertically */
+    /*Center horizontaly */
+    align-items: center;
+    /*Center horizontaly */
+    justify-content: center;
+  
+    /*Center horizontaly ie */
+    -ms-flex-pack: center;
+    /*Center horizontaly ie */
+    border-radius: 25px;
+    margin: 15px;
+    filter: brightness(50%);
+  }
+  .bg-text{
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      z-index: 2;
+    transform: translate(-50%, -50%);
+  }

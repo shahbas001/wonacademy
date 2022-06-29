@@ -1,0 +1,23 @@
+.page-header {
+    background-position: center center;
+    background-size: cover;
+    min-height: 100vh;
+    max-height: 999px;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+    z-index: 1;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    /* Center vertically */
+    /*Center horizontaly */
+    align-items: center;
+    /*Center horizontaly */
+    justify-content: center;
+  
+    /*Center horizontaly ie */
+    -ms-flex-pack: center;
+    /*Center horizontaly ie */
+  }
+  

@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "world-of-nation"
+    }
+  },
+  "defaultProject": "world-of-nation",
+  "cli": {
+    "analytics": "5a82c70b-7b0e-4ff8-bc2e-b7150b9b2945"
+  }
 }
